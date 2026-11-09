@@ -1,3 +1,7 @@
+#public url to play the game demo 
+https://moonlit-puppy-5e03ab.netlify.app
+
+
 # Regional map data directory
 
 The browser loads regional files from this folder only when a matching file has been generated:
